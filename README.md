@@ -1,5 +1,4 @@
 # Persona
-### 가제: Pathos
 
 - Description: 얼굴 인식 기반 SNS
 
