@@ -4,17 +4,15 @@
 
 - Core Tech: Deep Learning, AR
 
------
 
-### 제안서 
+
+## 제안서
 
 #### Yogno
 
 
 
-----------
-
-### 협업 계약서
+## 협업 계약서
 
 협업당사자: Conan, Jay, Yogno
 
@@ -34,9 +32,9 @@
 - 다른 협업자에게 부담을 주지 않는다.
 - 지킬 수 있는 계획을 세우고 납기를 지킨다.
 
--------------
 
-### 어떻게 일할 것인가
+
+## 어떻게 일할 것인가
 
 1. 재택근무
 2. 협업툴
@@ -44,9 +42,9 @@
    2. 디스코드
    3. Kakao talk
 
----------
 
-### 개발 스펙
+
+## 개발 스펙
 
 #### Conan
 
@@ -54,33 +52,24 @@
 
 
 
-------------
-
-### 조직 구성
+## 조직 구성
 
 - Chief Executive Officer: Yogno
-
--  Chief Financial Officer: Jay
-
+- Chief Financial Officer: Jay
 - Chief Technical Officer: Conan
 
   - Server Developer: Conan
 
   - Frontend Developer: Jay
-
 - CX Designer: Yogno
-
 - Software Architect: Conan
-
 - Data Architect: Yogno
-
 - International Marketing: Conan
-
 - Domestic Marketing: Jay
 
---------
 
-### 뭘 할 것인가
+
+## 뭘 할 것인가
 
 ###### 2월 
 
@@ -106,8 +95,8 @@ AR 학습
 
 산출물: 1차 프로젝트
 
------------
 
-### 조직 문화 TF
+
+## 조직 문화 TF
 
 #### Jay
